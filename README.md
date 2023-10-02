@@ -3,13 +3,16 @@
 ## 1. Reflections
 
   ### 1.1 Shooting
-  
-    - Missed shot
+
+    - Missed shots
     - Non-fatal hit
+    - Bullet type
+    - Body armor
+    - Non-lethal firearm
+    - The man knew first aid
+    - Luck
     - Bulletproof clothes/accessories
     - Non-lethal bullet
-    - No bullet (?)
-    - The man knew firstaid
   
   ### 1.2 Alien Toothbrush Instructions
   
